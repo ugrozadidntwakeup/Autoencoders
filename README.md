@@ -23,3 +23,15 @@ Tried to do it on MNIST and let's look a result
 # Image morphing
 Take photo of one person and transform it to photo of another person using Autoencoder
 
+![Image alt](https://github.com/ugrozadidntwakeup/Images/blob/main/image/morphing.PNG)
+
+# One of the main application of autoencoders
+Many people use autoencoders to get rid of noise on the photos. We take photos, add noise and give them to autoencoder.
+Let's see the result
+
+![Image alt](https://github.com/ugrozadidntwakeup/Images/blob/main/image/denoising.PNG)
+
+# Occlusion
+Something similar to denoising, but instead of the noise we have a black square randomly on the photos.
+
+![Image alt](https://github.com/ugrozadidntwakeup/Images/blob/main/image/occlusion.PNG)

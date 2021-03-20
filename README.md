@@ -10,3 +10,9 @@ Take smiling people and sad people, so have encoding of 'smiling' and 'sad' and 
 Then add up vector of 'smiling' to latent layer of autoencoder and give it to decoder, so let's see the result
 
 ![Image alt](https://github.com/ugrozadidntwakeup/Images/blob/main/image/smiling.PNG)
+
+We can see that sad people took patterns(smile, facial features) of smiling and become happy(we had a 'problem' guy again 😥)
+
+# Another type: Variational Autoencoder 
+Tried to do it on MNIST and let's look a result 
+

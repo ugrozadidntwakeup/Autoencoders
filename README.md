@@ -11,8 +11,15 @@ Then add up vector of 'smiling' to latent layer of autoencoder and give it to de
 
 ![Image alt](https://github.com/ugrozadidntwakeup/Images/blob/main/image/smiling.PNG)
 
-We can see that sad people took patterns(smile, facial features) of smiling and become happy(we had a 'problem' guy again 😥)
+We can see that sad people took patterns(smile, facial features) of smiling and became happy(we had a 'problem' guy with a cap again 😥)
 
 # Another type: Variational Autoencoder 
 Tried to do it on MNIST and let's look a result 
+
+![Image alt](https://github.com/ugrozadidntwakeup/Images/blob/main/image/MNIST.PNG)
+
+Сan you guess where are the real pictures and where is the result?
+
+# Image morphing
+Take photo of one person and transform it to photo of another person using Autoencoder
 

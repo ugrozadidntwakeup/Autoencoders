@@ -36,3 +36,5 @@ Let's see the result
 Something similar to denoising, but instead of the noise we have a black square randomly on the photos.
 
 ![Image alt](https://github.com/ugrozadidntwakeup/Images/blob/main/image/occlusion.PNG)
+
+So that's all I wanted to show you ☑️

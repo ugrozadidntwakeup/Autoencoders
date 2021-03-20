@@ -26,7 +26,8 @@ Take photo of one person and transform it to photo of another person using Autoe
 ![Image alt](https://github.com/ugrozadidntwakeup/Images/blob/main/image/morphing.PNG)
 
 # One of the main application of autoencoders
-Many people use autoencoders to get rid of noise on the photos. We take photos, add noise and give them to autoencoder.
+Many people use autoencoders to get rid of noise on the photos. We take photos, add noise and give them to autoencoder.  
+
 Let's see the result
 
 ![Image alt](https://github.com/ugrozadidntwakeup/Images/blob/main/image/denoising.PNG)
